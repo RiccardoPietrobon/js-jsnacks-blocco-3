@@ -15,7 +15,7 @@ while (count < 3) {
 
         document.getElementById("stamp").append(next_number + " ");
 
-        next_number == first_number;
+        first_number = next_number;
 
         count++;
     }
